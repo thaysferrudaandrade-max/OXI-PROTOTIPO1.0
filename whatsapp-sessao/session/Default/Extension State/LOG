@@ -1,2 +1,4 @@
-2026/09/30-08:33:36.397 3840 Creating DB C:\Users\aluno\Documents\2°DS\Back-end I\oxi prototipo 1.0\whatsapp-sessao\session\Default\Extension State since it was missing.
-2026/09/30-08:33:36.405 3840 Reusing MANIFEST C:\Users\aluno\Documents\2°DS\Back-end I\oxi prototipo 1.0\whatsapp-sessao\session\Default\Extension State/MANIFEST-000001
+2026/10/02-11:21:59.144 3288 Creating DB C:\Users\aluno\Documents\2°DS\Back-end I\oxi prototipo 1.0\whatsapp-sessao\session\Default\Extension State since it was missing.
+2026/10/02-11:21:59.147 3288 Reusing MANIFEST C:\Users\aluno\Documents\2°DS\Back-end I\oxi prototipo 1.0\whatsapp-sessao\session\Default\Extension State/MANIFEST-000001
+2026/10/02-11:21:59.152 3288 Recovering log #3
+2026/10/02-11:21:59.153 3288 Reusing old log C:\Users\aluno\Documents\2°DS\Back-end I\oxi prototipo 1.0\whatsapp-sessao\session\Default\Extension State/000003.log 

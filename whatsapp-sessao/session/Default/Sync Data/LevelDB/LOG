@@ -1,2 +1,4 @@
-2026/09/30-08:33:36.313 3840 Creating DB C:\Users\aluno\Documents\2°DS\Back-end I\oxi prototipo 1.0\whatsapp-sessao\session\Default\Sync Data\LevelDB since it was missing.
-2026/09/30-08:33:36.321 3840 Reusing MANIFEST C:\Users\aluno\Documents\2°DS\Back-end I\oxi prototipo 1.0\whatsapp-sessao\session\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/10/02-11:21:58.990 e54 Creating DB C:\Users\aluno\Documents\2°DS\Back-end I\oxi prototipo 1.0\whatsapp-sessao\session\Default\Sync Data\LevelDB since it was missing.
+2026/10/02-11:21:59.024 e54 Reusing MANIFEST C:\Users\aluno\Documents\2°DS\Back-end I\oxi prototipo 1.0\whatsapp-sessao\session\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/10/02-11:21:59.040 e54 Recovering log #3
+2026/10/02-11:21:59.041 e54 Reusing old log C:\Users\aluno\Documents\2°DS\Back-end I\oxi prototipo 1.0\whatsapp-sessao\session\Default\Sync Data\LevelDB/000003.log 

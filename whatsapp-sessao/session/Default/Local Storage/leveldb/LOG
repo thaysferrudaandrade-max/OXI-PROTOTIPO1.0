@@ -1,2 +1,7 @@
-2026/09/30-08:33:36.344 11f0 Creating DB C:\Users\aluno\Documents\2°DS\Back-end I\oxi prototipo 1.0\whatsapp-sessao\session\Default\Local Storage\leveldb since it was missing.
-2026/09/30-08:33:36.360 11f0 Reusing MANIFEST C:\Users\aluno\Documents\2°DS\Back-end I\oxi prototipo 1.0\whatsapp-sessao\session\Default\Local Storage\leveldb/MANIFEST-000001
+2026/10/02-11:21:59.094 1f9c Creating DB C:\Users\aluno\Documents\2°DS\Back-end I\oxi prototipo 1.0\whatsapp-sessao\session\Default\Local Storage\leveldb since it was missing.
+2026/10/02-11:21:59.113 1f9c Reusing MANIFEST C:\Users\aluno\Documents\2°DS\Back-end I\oxi prototipo 1.0\whatsapp-sessao\session\Default\Local Storage\leveldb/MANIFEST-000001
+2026/10/02-11:21:59.122 1f9c Recovering log #3
+2026/10/02-11:21:59.126 1f9c Reusing old log C:\Users\aluno\Documents\2°DS\Back-end I\oxi prototipo 1.0\whatsapp-sessao\session\Default\Local Storage\leveldb/000003.log 
+2026/10/02-11:28:59.608 1f9c Level-0 table #5: started
+2026/10/02-11:28:59.644 1f9c Level-0 table #5: 18377 bytes OK
+2026/10/02-11:28:59.649 1f9c Delete type=0 #3

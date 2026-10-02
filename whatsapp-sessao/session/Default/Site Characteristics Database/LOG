@@ -1,2 +1,4 @@
-2026/09/30-08:33:36.317 3968 Creating DB C:\Users\aluno\Documents\2°DS\Back-end I\oxi prototipo 1.0\whatsapp-sessao\session\Default\Site Characteristics Database since it was missing.
-2026/09/30-08:33:36.328 3968 Reusing MANIFEST C:\Users\aluno\Documents\2°DS\Back-end I\oxi prototipo 1.0\whatsapp-sessao\session\Default\Site Characteristics Database/MANIFEST-000001
+2026/10/02-11:21:58.991 4fc Creating DB C:\Users\aluno\Documents\2°DS\Back-end I\oxi prototipo 1.0\whatsapp-sessao\session\Default\Site Characteristics Database since it was missing.
+2026/10/02-11:21:59.024 4fc Reusing MANIFEST C:\Users\aluno\Documents\2°DS\Back-end I\oxi prototipo 1.0\whatsapp-sessao\session\Default\Site Characteristics Database/MANIFEST-000001
+2026/10/02-11:21:59.029 4fc Recovering log #3
+2026/10/02-11:21:59.029 4fc Reusing old log C:\Users\aluno\Documents\2°DS\Back-end I\oxi prototipo 1.0\whatsapp-sessao\session\Default\Site Characteristics Database/000003.log 

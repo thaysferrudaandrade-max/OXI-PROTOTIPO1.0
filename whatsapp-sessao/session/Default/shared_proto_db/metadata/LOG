@@ -1,2 +1,4 @@
-2026/09/30-08:33:36.332 3968 Creating DB C:\Users\aluno\Documents\2°DS\Back-end I\oxi prototipo 1.0\whatsapp-sessao\session\Default\shared_proto_db\metadata since it was missing.
-2026/09/30-08:33:36.338 3968 Reusing MANIFEST C:\Users\aluno\Documents\2°DS\Back-end I\oxi prototipo 1.0\whatsapp-sessao\session\Default\shared_proto_db\metadata/MANIFEST-000001
+2026/10/02-11:21:59.123 23f4 Creating DB C:\Users\aluno\Documents\2°DS\Back-end I\oxi prototipo 1.0\whatsapp-sessao\session\Default\shared_proto_db\metadata since it was missing.
+2026/10/02-11:21:59.128 23f4 Reusing MANIFEST C:\Users\aluno\Documents\2°DS\Back-end I\oxi prototipo 1.0\whatsapp-sessao\session\Default\shared_proto_db\metadata/MANIFEST-000001
+2026/10/02-11:21:59.148 23f4 Recovering log #3
+2026/10/02-11:21:59.149 23f4 Reusing old log C:\Users\aluno\Documents\2°DS\Back-end I\oxi prototipo 1.0\whatsapp-sessao\session\Default\shared_proto_db\metadata/000003.log 
